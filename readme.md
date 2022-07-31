@@ -1,6 +1,7 @@
-# Node.js TS 
-## SWC starter kit
+# npx @dorbiren/create-code my-app-name 
 
+
+## SWC starter kit
 This setup compiles Typescript to ESM for the Node.js runtime.    
 It's super-fast.     
 it uses *`swc`* for the actual compiling.
@@ -23,3 +24,8 @@ An easier alternative you may consider is to simply dompile everything to Common
   
 This setup is only relevant if it is important for you to be standard complient with ESNext and specifically with EcmaScript Modules (ESM) running natively in the Node.js runtime. 
 
+## new update 
+contains husky for modern native Git hooks.
+mocha & nyc for unit test 
+prettier ready and configerd
+typescript.
